@@ -1,13 +1,14 @@
-<img width="1440" height="1024" alt="Homepage_mockup" src="https://github.com/user-attachments/assets/f41e745d-3b35-4d47-b7a9-06db95c20b70" />
+
 # Mokup-prova-UF506
 Este é o mokup criado por mim, como prova final do primeiro módulo UF506 do curso de Design e Construção de Websites.
 # Módulo 506 - Design e Construção de Websites
 ## 🎨 O Design
-<img width="674" height="1820" alt="iPhone 16   17 Pro Max - 2" src="https://github.com/user-attachments/assets/35c7b650-82ab-47ad-a5eb-25eefcf58605" />
-<img width="1440" height="1024" alt="Contatos_mockup" src="https://github.com/user-attachments/assets/d0089e6c-5178-4305-85c1-1451e14bec62" />
-<img width="1440" height="1024" alt="Serviços_mockup" src="https://github.com/user-attachments/assets/6532d228-4a8b-4a28-baf3-20d87d437369" />
+
+<img width="1440" height="1024" alt="Homepage_mockup" src="https://github.com/user-attachments/assets/f41e745d-3b35-4d47-b7a9-06db95c20b70" />
 <img width="1440" height="1024" alt="Sobre_mockup" src="https://github.com/user-attachments/assets/d03165c7-50f1-4844-b0a9-37cc6ad23dde" />
-<img width="1440" height="1024" alt="Homepage_mockup" src="https://github.com/user-attachments/assets/ba90d8d8-2fbc-4491-af14-56d1da4f7a49" />
+<img width="1440" height="1024" alt="Serviços_mockup" src="https://github.com/user-attachments/assets/6532d228-4a8b-4a28-baf3-20d87d437369" />
+<img width="1440" height="1024" alt="Contatos_mockup" src="https://github.com/user-attachments/assets/d0089e6c-5178-4305-85c1-1451e14bec62" />
+<img width="674" height="1820" alt="iPhone 16   17 Pro Max - 2" src="https://github.com/user-attachments/assets/35c7b650-82ab-47ad-a5eb-25eefcf58605" />
 
 Este repositório contém a prova de competências realizada para o módulo de Design (UFCD 506).
 
