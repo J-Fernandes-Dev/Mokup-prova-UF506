@@ -2,6 +2,11 @@
 # Mokup-prova-UF506
 Este é o mokup criado por mim, como prova final do primeiro módulo UF506 do curso de Design e Construção de Websites.
 # Módulo 506 - Design e Construção de Websites
+<img width="674" height="1820" alt="iPhone 16   17 Pro Max - 2" src="https://github.com/user-attachments/assets/35c7b650-82ab-47ad-a5eb-25eefcf58605" />
+<img width="1440" height="1024" alt="Contatos_mockup" src="https://github.com/user-attachments/assets/d0089e6c-5178-4305-85c1-1451e14bec62" />
+<img width="1440" height="1024" alt="Serviços_mockup" src="https://github.com/user-attachments/assets/6532d228-4a8b-4a28-baf3-20d87d437369" />
+<img width="1440" height="1024" alt="Sobre_mockup" src="https://github.com/user-attachments/assets/d03165c7-50f1-4844-b0a9-37cc6ad23dde" />
+<img width="1440" height="1024" alt="Homepage_mockup" src="https://github.com/user-attachments/assets/ba90d8d8-2fbc-4491-af14-56d1da4f7a49" />
 
 Este repositório contém a prova de competências realizada para o módulo de Design (UFCD 506).
 
@@ -14,8 +19,4 @@ Usei o Figma para criar este Mokup, coloco aqui o link direto para o meu protót
 https://www.figma.com/proto/22rKR5kRUII3xdX0ydf6zF/Prova-M%C3%B3dulo-506?node-id=36-403&p=f&viewport=761%2C601%2C0.27&t=k7BjUhtaA7a5NMf8-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=36%3A403&page-id=1%3A2
 ## 🛠️ Ferramentas Utilizadas
 Figma 
-<img width="674" height="1820" alt="iPhone 16   17 Pro Max - 2" src="https://github.com/user-attachments/assets/35c7b650-82ab-47ad-a5eb-25eefcf58605" />
-<img width="1440" height="1024" alt="Contatos_mockup" src="https://github.com/user-attachments/assets/d0089e6c-5178-4305-85c1-1451e14bec62" />
-<img width="1440" height="1024" alt="Serviços_mockup" src="https://github.com/user-attachments/assets/6532d228-4a8b-4a28-baf3-20d87d437369" />
-<img width="1440" height="1024" alt="Sobre_mockup" src="https://github.com/user-attachments/assets/d03165c7-50f1-4844-b0a9-37cc6ad23dde" />
-<img width="1440" height="1024" alt="Homepage_mockup" src="https://github.com/user-attachments/assets/ba90d8d8-2fbc-4491-af14-56d1da4f7a49" />
+
