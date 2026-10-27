@@ -10,7 +10,6 @@ criar e desenhar websites.
 
 ## 🎨 O Design
 Usei o Figma para criar este Mokup, coloco aqui o link direto para o meu protótipo interativo!
-https://www.figma.com/proto/22rKR5kRUII3xdX0ydf6zF/Prova-M%C3%B3dulo-506?node-id=36-403&p=f&t=b0fIIR5WTANmH92u-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=36%3A403
-
+https://www.figma.com/proto/22rKR5kRUII3xdX0ydf6zF/Prova-M%C3%B3dulo-506?node-id=36-403&p=f&viewport=761%2C601%2C0.27&t=wNgIhAIUAsM6wzv9-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=36%3A403&page-id=1%3A2
 ## 🛠️ Ferramentas Utilizadas
 Figma 
