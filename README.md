@@ -20,5 +20,5 @@ criar e desenhar websites.
 Figma 
 
 ---
-🔗 [Clique aqui para testar o protótipo interativo diretamente no Figma]([COLE_O_SEU_LINK_AQUI] https://www.figma.com/proto/22rKR5kRUII3xdX0ydf6zF/Prova-M%C3%B3dulo-506?page-id=1%3A2&node-id=84-1648&viewport=761%2C597%2C0.27&t=n7aedduMrGL5zUv4-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=36%3A403
+🔗 [Clique aqui para testar o protótipo interativo diretamente no Figma] https://www.figma.com/proto/22rKR5kRUII3xdX0ydf6zF/Prova-M%C3%B3dulo-506?page-id=1%3A2&node-id=84-1648&viewport=761%2C597%2C0.27&t=n7aedduMrGL5zUv4-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=36%3A403
 
